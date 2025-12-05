@@ -1,0 +1,3 @@
+@tailwind base;       /* Tailwind의 기본 스타일 초기화 (브라우저 간 스타일 통일) */
+@tailwind components; /* 컴포넌트 클래스들이 들어올 자리 */
+@tailwind utilities;  /* text-center, mt-4 같은 유틸리티 클래스들이 들어올 자리 */
